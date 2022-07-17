@@ -1,0 +1,9 @@
+{
+    "Register": "登録",
+    "Name": "名前",
+    "Email": "メールアドレス",
+    "Password": "パスワード",
+    "Confirm Password": "パスワード(確認)",
+    "Log in": "ログイン",
+    "Log Out": "ログアウト"
+}
